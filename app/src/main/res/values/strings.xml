@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LoginTest</string>
+
+    <!--Login Module-->
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="email_hint">email</string>
+    <string name="password">Password</string>
+    <string name="password_hint">password</string>
+    <string name="button_login">LOGIN</string>
+    <string name="button_logout">LOGOUT</string>
+</resources>
